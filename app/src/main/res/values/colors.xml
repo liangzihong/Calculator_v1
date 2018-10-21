@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--计算器的模式-->
+    <!--panel1的颜色-->
+    <color name="panel1_light">#fafafa</color>
+    <color name="panel1_dark">#505050</color>
+
+    <color name="panel2_light">#eeeeee</color>
+    <color name="panel2_dark">#424242</color>
+
+
+    <color name="show_view_light">#fafafa</color>
+    <color name="show_view_dark">#303030</color>
+
+
+
+
+    <!--颜色选择-->
+
+    <color name="blue">#3F51B5</color>
+    <color name="blue_dark">#303f9f</color>
+
+    <color name="cyan">#00bcd4</color>
+    <color name="cyan_dark">#0097a7</color>
+
+    <color name="gray">#616161</color>
+    <color name="gray_dark">#424242</color>
+
+    <color name="green">#4caf50</color>
+    <color name="green_dark">#388e3c</color>
+
+    <color name="indigo">#3f51b5</color>
+    <color name="indigo_dark">#303f9f</color>
+
+    <color name="purple">#673ab7</color>
+    <color name="purple_dark">#512da8</color>
+
+    <color name="red">#f44336</color>
+    <color name="red_dark">#d32f2f</color>
+
+
+</resources>

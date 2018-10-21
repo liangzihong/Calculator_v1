@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="panel1_button_height"> 50dp </dimen>
+    <dimen name="panel1_button_textsize">20sp</dimen>
+
+    <dimen name="panel2_button_height"> 65dp</dimen>
+    <dimen name="panel2_button_textsize"> 30sp</dimen>
+</resources>
